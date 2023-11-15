@@ -138,3 +138,4 @@ leo run transfer_private_to_public "{
 
 When we call `transfer_private_to_public`, we take Bob's private record that contains 110 tokens, and outputs a record owned by Bob with 70 tokens, and calls the finalize function under `transfer_private_to_public` with Alice's address and 40 tokens as arguments. This changes the public mapping under Alice's address to contain 100 public tokens. Again, public mappings are queryable on-chain.
 # Leo-Token-Workshop
+# Leo-Token-Workshop
